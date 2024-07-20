@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eticenteo.github.io/sitemap
+Sitemap: https://eticenteo.github.io/app/sitemap
+Sitemap: https://eticenteo.github.io/assets/sitemap
+Sitemap: https://eticenteo.github.io/css/sitemap
+Sitemap: https://eticenteo.github.io/includes/sitemap
+Sitemap: https://eticenteo.github.io/item/sitemap
+Sitemap: https://eticenteo.github.io/src/sitemap
